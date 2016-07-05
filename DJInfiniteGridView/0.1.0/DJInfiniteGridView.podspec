@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version      = "0.1.0"
   s.summary      = "This is a custom view for scrollView"
   s.homepage     = "https://github.com/Dokay/DJInfiniteGridView"
-  s.license     = { :type => "MIT", :file => "LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
   
   s.author             = { "Dokay" => "dokay_dou@163.com" }
   # Or just: s.author    = "Dokay"
